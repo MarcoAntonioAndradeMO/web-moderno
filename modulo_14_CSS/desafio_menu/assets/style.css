@@ -1,5 +1,13 @@
+.container{
+    display: flex;
+}
 
+.menu{
+    display: flex;
+    color: aqua;
+}
 
-
-
-
+.menu-list{
+    display: flex;
+    padding: 10px;
+}
